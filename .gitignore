@@ -1,0 +1,55 @@
+### STS / Eclipse ###
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders
+.factorypath
+
+# STS4 specific
+.sts4-cache/
+.springBeans
+
+# External tool builders
+.externalToolBuilders/
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+# PyDev specific (if using)
+*.pydevproject
+
+# CDT-specific (if using)
+.cproject
+
+# JDT-specific (Eclipse Java Development Tools)
+.classpath
+.project
+
+### Build Tools ###
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# Gradle
+.gradle
+/build/
+!gradle/wrapper/gradle-wrapper.jar
+
+### OS Specific ###
+.DS_Store
+Thumbs.db
